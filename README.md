@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @viflaem2
+- 👋 Hi, I’m @viflaem2, also known as AndreiCat
 - 👀 I’m interested in programming and ctf competitions
-- 🌱 I’m currently learning Linux, Criprography and Python
+- 🌱 I’m currently learning CTF related stuff.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
